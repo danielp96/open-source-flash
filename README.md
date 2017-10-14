@@ -103,7 +103,14 @@ also has huge [archive of old lego flash and shockwave games](http://biomediapro
 - [Ishkur's Guide to Electronic Music](http://techno.org/electronic-music-guide/) ([Wikipedia](https://en.wikipedia.org/wiki/Ishkur's_Guide_to_Electronic_Music))
 - [QWOP](http://www.foddy.net/Athletics.html) ([Wikipedia](https://en.wikipedia.org/wiki/QWOP))
 - [Drugs and the brain](http://jellinek.nl/brain/)
+- [Frog in a blender](http://joecartoon.com/games/play/65/Frog_in_a_Blender)
 
+## Flash and Shockwave games
+Some of these games will probably disappear if Flash gets killed:
+- [Super Smash Flash 2](https://www.mcleodgaming.com/games/ssf2)
+- [SuperFighters](https://mythologicinteractive.com/Superfighters)
+- [Alien Hominid](http://www.newgrounds.com/portal/view/59593)
+- [Abobo's Big Adventure](http://abobosbigadventure.com/)
 
 ## Current state of Flash and Shockwave preservation
 There's already some projects to preserve Flash. The problem is that they're not complete, because of the closed source of Flash spec:
@@ -125,6 +132,8 @@ Projects that don't preserve Flash as such but provide knowledge about the file 
 These communities thrive with the [Adobe AIR runtime](http://www.adobe.com/devnet/air/air-sdk-download.html). The Adobe AIR runtime enables developers to package the same code into native applications and games for Windows and Mac OS desktops as well as iOS and Android devices, reaching over a billion desktop systems and mobile app stores for over 500 million devices.
 - [Starling](https://gamua.com/starling/) - The Cross Platform Game Engine used by thousands to publish GPU rendered games, it also uses the same famous Flash api for display list.
 - [Feathers](https://feathersui.com/) - Feathers puts it all together in one package — blazing fast GPU powered graphics, an impressive number of skinning options, and an extensible component architecture to create a smooth and responsive experience.
+- [RABCDA] (https://github.com/CyberShadow/RABCDAsm) - Robust ABC (ActionScript Bytecode) [Dis-]Assembler
+- [Royal/asjs](https://github.com/apache/royale-asjs) - Flex SDK is now Royal-asjs maintained by Apache Team 
 
 ## Next generation community efforts for ActionScript
 Here is a display of technologies, that are using `ActionScript` without being tied to Adobe
